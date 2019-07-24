@@ -84,7 +84,7 @@ The license can be found in the `LICENSE` file.
 [Pull requests](https://github.com/incyi/MPLABX_Travis-CI_Example.X/pulls) and [bug reports](https://github.com/incyi/MPLABX_Travis-CI_Example.X/issues) are welcome!
 
 
-[badge-travis]:             https://travis-ci.com/incyi/MPLABX_Travis-CI_Example.X.svg?branch=master
+[badge-travis]:             https://api.travis-ci.com/incyi/MPLABX_Travis-CI_Example.X.svg?token=GXoctkqhAbkBLipxHpR1&branch=master
 [travis-build]:             https://travis-ci.com/incyi/MPLABX_Travis-CI_Example.X
 [travis-ci]:                https://travis-ci.com
 [travis-getstarted]:        https://docs.travis-ci.com/user/getting-started
