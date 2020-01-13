@@ -1,6 +1,7 @@
 MPLABX Travis CI Example
 ========================
 [![Travis build status][badge-travis]][travis-build]
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=incyi_MPLABX_Travis-CI_Example.X&metric=alert_status)](https://sonarcloud.io/dashboard?id=incyi_MPLABX_Travis-CI_Example.X)  
 
 Example of a MPLABX project with automatic build on [Travis CI][travis-ci].
 
