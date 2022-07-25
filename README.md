@@ -5,6 +5,8 @@ MPLABX Travis CI Example
 
 Example of a MPLABX project with automatic build on [Travis CI][travis-ci].
 
+Bismillah ar-Rahmaan ar-Raheem
+
 Documentation
 =============
 This MPLAB X project is automatically build on Travis CI.
